@@ -1,0 +1,5 @@
+DATABASE = 'third-cluster.cluster-c0u5satsfnp9.us-west-2.rds.amazonaws.com'
+DB_USER = 'root'
+DB_PW = 'password'
+DB_NAME = 'thirdOne'
+SECRET_KEY = 'fadfkl34034023424-rmflfsdggk0g'
