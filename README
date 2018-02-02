@@ -1,5 +1,22 @@
+// Andrew Zhu
+// 2/2/2018
 
-                        / MiniTwit /
+~~~~~MiniTwit Modification~~~~~
+
+Updated Minitwit.py file and schema.sql file in order to deploy web app as EC2 Instances in AWS Infrastruture. 
+Mapped the EC2 Instances to run with AWS-RDS (Relational Database Service on Amazon Web Services) rather than the 
+original SQLite database of original Minitwit app.
+
+
+
+
+
+
+
+
+
+
+				/ Original MiniTwit /
 
            because writing todo lists is not fun
 
