@@ -4,7 +4,7 @@
 ~~~~~MiniTwit Modification~~~~~
 
 Updated Minitwit.py file and schema.sql file in order to deploy web app as EC2 Instances in AWS Infrastruture. 
-Mapped the Eapplication to run with AWS-RDS (Relational Database Service on Amazon Web Services) rather than the 
+Mapped the application to run with AWS-RDS (Relational Database Service on Amazon Web Services) rather than the 
 original SQLite database of original Minitwit app and saved the modifications as an AMI(Amazon Machine Image) to deploy instances
 of the minitwit app.
 
